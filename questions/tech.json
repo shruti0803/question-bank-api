@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Someone says their phone isn’t charging. What’s the first thing you check?",
+    "options": ["Throw it away", "Try a different charger or cable", "Hit the phone", "Restart the internet"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "An elder wants to make a video call but can't open the app. What should you do?",
+    "options": ["Give up", "Open the app and guide them step-by-step", "Take the phone away", "Ignore it"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If someone forgets their email password, how do you help?",
+    "options": ["Create a new email", "Use 'Forgot Password' to reset it", "Tell them to stop using email", "Ignore it"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "They ask you to help install a new app. What do you need?",
+    "options": ["Phone and permission", "Just shout instructions", "Nothing", "Buy a new phone"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How can you make a smartphone easier for an elderly person?",
+    "options": ["Use dark theme", "Turn on large text and simplify layout", "Remove all apps", "Lock the phone"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What’s a safe way to help someone make online payments?",
+    "options": ["Do it without them", "Guide them clearly and ensure security", "Use your own account", "Share OTP with strangers"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "They don’t know how to copy-paste text. What do you do?",
+    "options": ["Laugh", "Demonstrate slowly and let them try", "Ignore them", "Tell them it's too hard"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Someone asks how to send a photo on WhatsApp. You should...",
+    "options": ["Send it for them", "Show how to attach and send", "Ignore the request", "Delete the app"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "They are afraid of clicking the wrong button. You say:",
+    "options": ["Don’t touch anything", "It's okay, you can learn by trying", "Let me do everything", "You're not smart enough"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which is a respectful way to explain something technical?",
+    "options": ["Use simple words and repeat patiently", "Use big technical terms", "Talk fast", "Get annoyed"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Someone asks how to open YouTube. What's the right step?",
+    "options": ["Show icon and how to search content", "Say it’s not possible", "Tell them to ask Google", "Ignore them"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "They click on an unknown link. What should you check?",
+    "options": ["If it’s a phishing or scam link", "Tell them to click again", "Share it with others", "Delete their account"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "You want to teach them to use a smartphone. What's effective?",
+    "options": ["Step-by-step demonstration with practice", "Talk about theory only", "Use complex instructions", "Don’t let them touch it"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An older person is afraid of online scams. You should...",
+    "options": ["Say scams are rare", "Teach them basic safety like not sharing OTPs", "Say don’t use internet", "Let it be"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "They don't know how to update apps. You guide them to...",
+    "options": ["Settings > Apps", "Play Store > My Apps > Update", "Gallery", "Search bar"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What’s one way to make devices accessible to people with disabilities?",
+    "options": ["Enable voice assistant or screen reader", "Reduce brightness", "Turn off Wi-Fi", "Make them use desktop only"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Someone accidentally muted a call. You tell them to...",
+    "options": ["Restart phone", "Tap the mic icon again", "Turn off phone", "Buy a new device"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "They want to join an online Zoom class. You should...",
+    "options": ["Help them install Zoom and test mic/camera", "Do it without showing them", "Leave them alone", "Use another app"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "To help someone remember tech steps, you should...",
+    "options": ["Give written/visual instructions", "Explain once", "Not explain at all", "Only speak fast"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "If a device stops responding, the first troubleshooting step is...",
+    "options": ["Panic", "Try restarting the device", "Throw it", "Reset all settings"],
+    "correctAnswer": 1
+  }
+]
