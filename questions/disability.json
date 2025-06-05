@@ -1,0 +1,102 @@
+[
+  {
+    "question": "When assisting someone in a wheelchair, what is important?",
+    "options": ["Push them without asking", "Ask before helping and move at their pace", "Lean on their wheelchair", "Move them quickly"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If someone is visually impaired, what is a polite way to guide them?",
+    "options": ["Grab their arm suddenly", "Tell them to follow you", "Offer your elbow and describe surroundings", "Say nothing"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "When speaking to a person who is deaf or hard of hearing, you should...",
+    "options": ["Speak loudly", "Face them and use clear lip movement or gestures", "Shout from a distance", "Write a paragraph"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person with limited mobility asks for help reaching something high. What do you do?",
+    "options": ["Tell them to try", "Ignore it", "Reach it and offer politely", "Tell them to call someone else"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If someone with a cognitive disability seems confused, what's best?",
+    "options": ["Get frustrated", "Repeat instructions calmly and simply", "Ignore them", "Leave them alone"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "You see a person using a cane approaching stairs. What's appropriate?",
+    "options": ["Watch quietly", "Offer help and wait for consent", "Grab their arm", "Tell them to avoid it"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When talking to someone in a wheelchair, it’s respectful to...",
+    "options": ["Stand over them", "Sit or kneel to eye level", "Shout down at them", "Pat their head"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If someone uses assistive tech to communicate, what should you do?",
+    "options": ["Interrupt them", "Wait patiently for them to finish", "Talk over the device", "Avoid eye contact"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is an inclusive way to ask if someone needs help?",
+    "options": ["‘Can you even do that?’", "‘Let me do that for you’", "‘Would you like any assistance?’", "‘You should stay home’"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "When a person with a disability refuses help, you should...",
+    "options": ["Help anyway", "Respect their decision", "Convince them aggressively", "Complain"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "You're helping someone who uses a walker. What should you do?",
+    "options": ["Rush them", "Support without blocking their movement", "Take away the walker", "Hold them tightly"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If a person with a speech disability is hard to understand, you should...",
+    "options": ["Pretend to understand", "Ask them to repeat politely", "Ignore their words", "Talk over them"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When assisting someone with a prosthetic limb, avoid...",
+    "options": ["Asking how it works", "Touching it without permission", "Offering help when asked", "Learning about it"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is a respectful practice?",
+    "options": ["Talking to their caregiver only", "Ignoring them", "Speaking directly to the person", "Avoiding eye contact"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "You need to help a wheelchair user into a car. What's correct?",
+    "options": ["Lift without asking", "Assist only if they request", "Pull quickly", "Push from behind the legs"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person with an intellectual disability is struggling with a form. You should...",
+    "options": ["Fill it for them without asking", "Offer help and explain clearly", "Complain it's taking time", "Ignore"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does 'accessibility' mean in caregiving?",
+    "options": ["Letting them stay home", "Giving equal access to spaces and info", "Avoiding hard tasks", "Building ramps only"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When guiding a visually impaired person to a seat, what is correct?",
+    "options": ["Push them into it", "Describe the seat and place their hand on it", "Shout directions", "Tell them to feel around"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "You’re helping a person with autism who is overwhelmed. What’s helpful?",
+    "options": ["Speak loudly", "Give clear, calm directions", "Rush them", "Touch them suddenly"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which phrase is most respectful?",
+    "options": ["‘Disabled person’", "‘They can’t do anything’", "‘Person with a disability’", "‘Poor thing’"],
+    "correctAnswer": 2
+  }
+]
