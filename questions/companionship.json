@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the best way to start a conversation with an elderly person?",
+    "options": ["Talk loudly", "Ask about their past experiences", "Talk only about yourself", "Ignore them"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If an elderly person is repeating stories, what should you do?",
+    "options": ["Interrupt them", "Tell them they already said that", "Listen patiently", "Walk away"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "How do you show respect when speaking to an older adult?",
+    "options": ["Use slang", "Avoid eye contact", "Use a polite and calm tone", "Speak fast"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "An elderly person seems lonely. What can you do?",
+    "options": ["Ignore them", "Spend time talking or doing simple activities", "Tell them to be happy", "Change topic"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "They begin talking about a lost loved one. What's your response?",
+    "options": ["Change the subject", "Say it's not a big deal", "Offer comfort and listen", "Laugh"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which is a good activity to bond with an elder?",
+    "options": ["Online games", "Watching age-appropriate movies together", "Asking about TikTok", "Silent sitting"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How do you help an elder remember something?",
+    "options": ["Get angry", "Help gently with cues or reminders", "Say they're forgetful", "Leave them alone"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What should you avoid when engaging with elders?",
+    "options": ["Interrupting frequently", "Showing empathy", "Asking about their childhood", "Smiling"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "If an elder talks negatively about their health, you should...",
+    "options": ["Tell them to stop", "Dismiss it", "Listen and validate their feelings", "Make a joke"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why is it important to talk slowly and clearly with elders?",
+    "options": ["To be rude", "To make fun", "To help them understand better", "To sound robotic"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If an elder is hard of hearing, what should you do?",
+    "options": ["Yell", "Use hand gestures and speak clearly", "Ignore them", "Write notes and walk away"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "You notice an elder seems confused. What's your action?",
+    "options": ["Scold them", "Calmly re-explain or assist", "Laugh", "Tell others loudly"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is a respectful way to help with mobility issues?",
+    "options": ["Pull them suddenly", "Offer your arm or use aids", "Let them fall", "Carry them forcefully"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How often should you initiate conversations with elders you care for?",
+    "options": ["Rarely", "Only when needed", "Frequently, even short talks help", "Once a month"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If an elder forgets your name, you should...",
+    "options": ["Feel insulted", "Avoid them", "Gently remind them", "Shout it repeatedly"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which activity promotes memory and joy for many elders?",
+    "options": ["Music or singing familiar songs", "Staring at the wall", "Challenging math", "Isolation"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How can you make an elder feel more involved?",
+    "options": ["Ask for their opinions or stories", "Ignore their input", "Decide everything yourself", "Leave them out"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What's a good way to celebrate an elder's birthday?",
+    "options": ["Ignore it", "Simple gathering with family or friends", "Tell them they're old", "Buy random gifts"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If an elder gets emotional during a talk, you should...",
+    "options": ["Walk away", "Mock them", "Stay calm and supportive", "Say 'stop crying'"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Elders often value...",
+    "options": ["Fame", "Money", "Time, patience, and genuine listening", "Fast communication"],
+    "correctAnswer": 2
+  }
+]
