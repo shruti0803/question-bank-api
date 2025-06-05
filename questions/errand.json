@@ -1,0 +1,102 @@
+[
+  {
+    "question": "An elder asks you to bring their blood pressure medicine. What should you do first?",
+    "options": ["Buy any medicine", "Ask for exact name or prescription", "Ignore it", "Guess the medicine"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "You're buying groceries for someone with diabetes. What should you avoid?",
+    "options": ["Vegetables", "Sugar-rich snacks", "Low-carb bread", "Fruit"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If a person asks for something out of stock, what should you do?",
+    "options": ["Get anything similar", "Buy nothing", "Call and ask for a replacement", "Guess and move on"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "How should you handle money after completing an errand?",
+    "options": ["Keep the change", "Return receipt and change", "Hide the cost", "Say you lost it"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "You’re asked to bring medicine from a pharmacy. What must you check?",
+    "options": ["Color of the box", "Expiry date and correct dosage", "Price only", "Packaging"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The person you're helping wants you to buy specific fruits. What do you do?",
+    "options": ["Buy any fruits", "Ask if they want fresh or pre-packed", "Get what's cheap", "Avoid fruits"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If you’re late in delivering important medicine, what’s the best action?",
+    "options": ["Don’t explain", "Lie about the reason", "Apologize and explain honestly", "Ignore their calls"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "You’ve been asked to pick up monthly supplies. What’s a good habit?",
+    "options": ["Forget every time", "Create a checklist of regular items", "Buy in bulk without asking", "Avoid calling"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "You need to deliver groceries to two people. What’s the best way to organize it?",
+    "options": ["Mix the bags", "Label or separate clearly", "Put all in one bag", "Hand randomly"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "While running an errand, you receive an urgent call. What do you do?",
+    "options": ["Forget the errand", "Inform the person and ask for next steps", "Ignore the call", "Panic"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What’s the best way to remember multiple errands?",
+    "options": ["Use a notepad or phone reminders", "Rely on memory", "Ask someone else", "Forget something intentionally"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "You can’t find a specific medicine. What's the best action?",
+    "options": ["Buy any similar one", "Call the doctor", "Contact the person and ask", "Don’t do anything"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "How often should you check food expiry dates when buying for someone?",
+    "options": ["Never", "Only for medicines", "Every time", "Once a year"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The person requests cash handling. What is best practice?",
+    "options": ["Ask them to pay later", "Misplace the money", "Handle money carefully and give exact change", "Buy random things"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "You’re not sure what 'low-sodium' means on a grocery list. What should you do?",
+    "options": ["Buy anything", "Search or ask for clarification", "Avoid it", "Guess"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "You’re delivering medicine and it starts raining. What do you do?",
+    "options": ["Drop it", "Protect it and proceed safely", "Go back", "Wait till next day"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How can you build trust while running errands for someone?",
+    "options": ["Lie about purchases", "Always return receipts and communicate", "Be careless", "Avoid questions"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A person wants a vegetarian grocery list. What should you avoid?",
+    "options": ["Tofu", "Milk", "Chicken", "Paneer"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "You are asked to bring personal hygiene items. What is important?",
+    "options": ["Guess the brand", "Respect privacy and buy what’s requested", "Ask unnecessary questions", "Make jokes"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "You are trusted with someone's prescription. What's your duty?",
+    "options": ["Post it online", "Keep it safe and private", "Lose it", "Ignore instructions"],
+    "correctAnswer": 1
+  }
+]
