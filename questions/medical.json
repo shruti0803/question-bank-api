@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What should you do if someone is bleeding heavily?",
+    "options": ["Call them later", "Apply pressure to the wound", "Give them water", "Ask them to walk it off"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How do you respond to someone who has fainted?",
+    "options": ["Shake them violently", "Give them food", "Lay them down and raise their legs", "Splash water on them"],
+    "correctAnswer": 2
+  }
+]
