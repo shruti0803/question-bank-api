@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What should you do if a toddler is choking on food?",
+    "options": ["Pat them on the back gently", "Give them water", "Perform back blows and chest thrusts", "Ignore it"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "How often should a newborn be fed?",
+    "options": ["Every 1-2 hours", "Every 3-4 hours", "Once a day", "Only when crying"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A child has a fever of 102°F. What should you do first?",
+    "options": ["Give cold water", "Wrap them in a blanket", "Use a lukewarm sponge bath", "Ignore it"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A baby is crying uncontrollably. What is the first step?",
+    "options": ["Shake the baby gently", "Check diaper, hunger, or discomfort", "Ignore them", "Give candy"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How should you handle a child having a temper tantrum in public?",
+    "options": ["Yell at them", "Physically punish them", "Stay calm and redirect their attention", "Leave them alone"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the safest sleeping position for a baby?",
+    "options": ["On their back", "On their stomach", "On their side", "Sitting up"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "When should solid foods be introduced to a baby?",
+    "options": ["At 2 months", "At 4-6 months", "At 1 year", "After 18 months"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A child falls and scrapes their knee. What do you do?",
+    "options": ["Ignore it", "Wash with water and apply a bandage", "Apply perfume", "Use alcohol directly"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How do you check if a child is dehydrated?",
+    "options": ["See if they are tired", "Pinch their skin and check for slow return", "Look at their eyes", "Check their nails"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A child has a food allergy and starts swelling. What’s the best action?",
+    "options": ["Give more food", "Call emergency services immediately", "Put them to sleep", "Give candy"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which activity is safest for a 1-year-old?",
+    "options": ["Climbing stairs alone", "Drawing with crayons", "Playing with small beads", "Running unsupervised"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What’s the best way to prevent diaper rash?",
+    "options": ["Leave the diaper on for long", "Change frequently and keep area dry", "Use perfume", "Powder only"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A child locks themselves in a room. What do you do?",
+    "options": ["Panic", "Break the door", "Stay calm and try to communicate", "Leave them inside"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "When brushing a toddler’s teeth, what should you use?",
+    "options": ["Adult toothbrush", "No brush needed", "Soft brush with pea-size toothpaste", "Toothpaste only"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What’s a sign a baby may be sick?",
+    "options": ["Constant crying, fever, refusing food", "Sleeping quietly", "Laughing too much", "Smiling often"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What should you do if a child has a nosebleed?",
+    "options": ["Tilt head back", "Pinch the nose and tilt head forward", "Lay them flat", "Give hot water"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the ideal room temperature for a baby?",
+    "options": ["15°C", "25°C", "35°C", "30°C"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How do you handle separation anxiety in toddlers?",
+    "options": ["Ignore them", "Sneak out", "Reassure and keep goodbyes short", "Never leave them"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the correct way to hold a newborn?",
+    "options": ["By the legs", "Support the head and neck", "Hold by the arms", "With one hand"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A toddler eats something poisonous. What should you do?",
+    "options": ["Make them vomit", "Call poison control or emergency", "Wait", "Punish them"],
+    "correctAnswer": 1
+  }
+]
