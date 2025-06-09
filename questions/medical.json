@@ -8,5 +8,150 @@
     "question": "How do you respond to someone who has fainted?",
     "options": ["Shake them violently", "Give them food", "Lay them down and raise their legs", "Splash water on them"],
     "correctAnswer": 2
+  },
+  {
+    "question": "What is the first step to take if you suspect a spinal injury?",
+    "options": ["Move the person immediately", "Keep the person still and call emergency services", "Give them water", "Lay them on their stomach"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which sign indicates a possible heart attack?",
+    "options": ["Sharp chest pain, shortness of breath, and sweating", "A mild headache", "Coughing continuously", "Stomach ache"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How do you treat a burn caused by fire?",
+    "options": ["Apply ice directly", "Run cool water over the burn", "Cover with butter", "Rub alcohol on it"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If someone is choking and cannot breathe, what is the recommended action?",
+    "options": ["Give water", "Perform abdominal thrusts (Heimlich maneuver)", "Pat on the back gently", "Wait for them to cough it out"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How should you handle a snake bite before professional help arrives?",
+    "options": ["Apply a tourniquet tightly above the bite", "Cut the bite area to suck out venom", "Keep the person calm and immobilize the bitten limb", "Make the person run to get help"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the correct way to perform CPR on an adult?",
+    "options": ["30 chest compressions followed by 2 rescue breaths", "10 chest compressions and 10 rescue breaths", "Only rescue breaths", "Only chest compressions without breaths"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What should you do if someone shows signs of heat stroke?",
+    "options": ["Give them hot drinks", "Move them to a cool place and hydrate", "Make them exercise", "Cover them with blankets"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is NOT a symptom of stroke?",
+    "options": ["Sudden weakness on one side", "Sudden confusion or trouble speaking", "Gradual improvement over days", "Sudden trouble seeing"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the proper way to clean a deep wound?",
+    "options": ["Wash with soap and water and cover with sterile dressing", "Leave it open to air", "Apply antiseptic and leave uncovered", "Use only alcohol"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How do you help someone experiencing an asthma attack?",
+    "options": ["Give them water", "Help them use their inhaler and keep calm", "Make them lie down flat", "Give them sugary food"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is an early sign of hypoglycemia (low blood sugar)?",
+    "options": ["Confusion and dizziness", "Dry skin", "Rapid pulse", "Excessive thirst"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How do you recognize an anaphylactic reaction?",
+    "options": ["Mild rash and sneezing", "Severe swelling, difficulty breathing, and low blood pressure", "Headache", "Muscle cramps"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the best immediate action if someone is suspected to have a concussion?",
+    "options": ["Let them sleep immediately", "Monitor their consciousness and seek medical help", "Give painkillers", "Make them drink coffee"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How do you treat a sprained ankle?",
+    "options": ["Apply heat immediately", "Rest, ice, compression, and elevation (RICE)", "Massage vigorously", "Ignore and keep walking"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When giving rescue breaths during CPR, how do you ensure effectiveness?",
+    "options": ["Blow rapidly", "Seal nose and breathe into mouth until chest rises", "Give one big breath only", "Give breaths without sealing nose"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What should you avoid doing when treating a person with shock?",
+    "options": ["Lay them down and raise feet", "Keep them warm", "Give them fluids to drink immediately", "Call for emergency help"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If a child swallows a poisonous substance, what is the first step?",
+    "options": ["Make them vomit immediately", "Call poison control or emergency services", "Give milk to dilute poison", "Give water and wait"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How do you prevent infection after a minor cut?",
+    "options": ["Cover with clean bandage after cleaning", "Leave it open", "Apply honey", "Put dirt to stop bleeding"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the main goal of the recovery position?",
+    "options": ["Prevent choking and maintain open airway", "Keep the person warm", "Keep the person awake", "Stop bleeding"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the proper way to handle a nosebleed?",
+    "options": ["Tilt head backward and pinch nose", "Tilt head forward and pinch nose", "Lie flat on back", "Blow nose hard"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How can you reduce the risk of infection when administering first aid?",
+    "options": ["Wear disposable gloves", "Use bare hands", "Only use water", "Avoid cleaning the wound"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What should you do if someone has a seizure?",
+    "options": ["Hold them down", "Move objects away and protect their head", "Put something in their mouth", "Shake them awake"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When is it safe to remove an object stuck in a wound?",
+    "options": ["Immediately", "Never, wait for medical professionals", "If it is small and can be removed easily", "After cleaning wound thoroughly"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does the acronym RICE stand for in injury treatment?",
+    "options": ["Rest, Ice, Compression, Elevation", "Run, Inject, Care, Exercise", "Rest, Immobilize, Care, Elevate", "Recovery, Ice, Care, Exercise"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How should you respond if someone is suspected to have a diabetic emergency?",
+    "options": ["Give sugar if conscious", "Make them lie down without food", "Give insulin", "Ignore and wait"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is a sign that CPR should be stopped?",
+    "options": ["When emergency help arrives", "When the person starts breathing normally", "When you are exhausted", "All of the above"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "How do you treat frostbite on exposed skin?",
+    "options": ["Rub the skin vigorously", "Warm the area gently and avoid walking on affected feet", "Apply ice packs", "Expose to direct heat"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the correct sequence for calling emergency services in an accident?",
+    "options": ["Check scene safety, check response, call emergency", "Call emergency immediately", "Help the injured first, then call", "Call emergency only if severe injury"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "If someone is allergic to bee stings, what should you do if they get stung?",
+    "options": ["Remove the stinger and use an epinephrine auto-injector if available", "Ignore it", "Give them aspirin", "Rub the sting area"],
+    "correctAnswer": 0
   }
 ]
